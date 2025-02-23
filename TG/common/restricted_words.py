@@ -1,0 +1,1 @@
+restricted_words = {"Dummkopf", "Blödmann", "Trottel", "Drecksack"}
